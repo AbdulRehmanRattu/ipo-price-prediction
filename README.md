@@ -1,5 +1,20 @@
 # IPO Price Pattern Analysis — Machine Learning on Indian Public Offerings
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 A structured machine learning study on Indian IPO data covering 296 listings across 11 industry sectors. The project applies regression and multi-class classification techniques to model two distinct outcomes: the initial underpricing percentage at listing, and the one-year post-listing return. Six classification algorithms and two regression models are evaluated and compared against a common feature set derived from company financials, market conditions, and offering characteristics.
 
 ---
@@ -209,22 +224,14 @@ Open the notebooks in order: `01_eda_preprocessing.ipynb` → `02_classification
 
 ---
 
-## Author
-
-**Abdul Rehman Rattu**
-Founder and CEO, Rapide Technologies
-
-- Email: rattu786.ar@gmail.com
-- LinkedIn: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
-
 ---
 
-## License
+## Author & Maintainer
 
-Released under the MIT License. Free to use, modify, and distribute with attribution.
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
 
----
-
-## Disclaimer
-
-This project is for research purposes only. The model outputs do not constitute investment advice and should not be used as the basis for any financial decision.
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
