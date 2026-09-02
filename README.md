@@ -3,13 +3,14 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Financial%20ML-IPO%20Pattern%20Analysis-0052FF.svg" alt="IPO">
+<img src="https://img.shields.io/badge/Classifiers-Random%20Forest%20%7C%20Gradient%20Boosting-F7931E.svg?logo=scikit-learn&logoColor=white" alt="ML">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -221,6 +222,8 @@ Open the notebooks in order: `01_eda_preprocessing.ipynb` → `02_classification
 | Statistical Tests | statsmodels, scipy (ANOVA, OLS) |
 | Deep Learning (EDA) | TensorFlow / Keras (LSTM + Dense experiments) |
 | Environment | Jupyter Notebook |
+
+---
 
 ---
 
